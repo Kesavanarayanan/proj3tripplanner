@@ -1,0 +1,135 @@
+.footer-container{
+  display: flex;
+  background:linear-gradient(90deg, rgb(61, 3, 3) 0%, rgb(26, 23, 23) 100%) ;
+  padding: 4rem 0 2rem 0;
+  color: azure;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.footer-subscription{
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items:center;
+   text-align: center;
+   margin-bottom: 24px;
+   padding: 24px;
+   color:wheat;
+}
+
+.footer-subscription> p{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.footer-heading{
+  margin-bottom: 24px;
+  font-size: 24px;
+}
+
+.footer-text{
+   margin-bottom: 24px;
+   font-size: 20px;
+}
+
+.footer-input{
+   padding: 8px 20px;
+   border-radius: 2px;
+   margin-right:10px ;
+   outline: none;
+   border:1px solid wheat;
+   margin-bottom: 16px;
+}
+
+.footer-links{
+  width: 100%;
+  max-width: 1000px;
+  display: flex;
+  justify-content: center;
+}
+
+.footer-link-wrap{
+  display: flex;
+  
+}
+
+.footer-link-items{
+   display: flex;
+   flex-direction: column;
+   align-items: flex-start;
+   margin:16px;
+   text-align: left;
+   width: 150px;
+   box-sizing: border-box;
+}
+
+.footer-link-items h2{
+  margin-bottom: 16px;
+  color: wheat;
+}
+
+.footer-link-items a{
+  color: white;
+  text-decoration: none;
+  margin-bottom: 0.5rem;
+}
+
+.footer-link-items a:hover{
+   color:antiquewhite; 
+   transition: 0.3s ease-out;              
+}
+
+/* social Icone*/
+.social-media-wrap {
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   width: 90%;
+   max-width: 1000px;
+   margin: 40px auto 0 auto;
+   }
+
+.social-icon-link{
+   color: white;
+   font-size: 24px;
+}
+
+.social-media{
+   max-width: 1000px;
+   width: 100%;
+}
+
+.social-icons{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 240px;                 
+}
+
+.social-logo{
+    color: white;
+    justify-self: start;
+    margin-left: 20px;
+    cursor: pointer;
+    text-decoration: none;
+    font-size: 2rem;
+    display: flex;
+    align-self: center;
+    margin-bottom: 16px;                
+}
+
+
+.Website-rights{
+  color: orange;
+  font-weight: normal;
+  margin-bottom: 16px;
+}
+
+@media screen and (max-width: 820px) {
+        .footer-links{padding-top: 2rem;}
+        .footer-input{width: 100%;}
+        .btn{width:100%}
+        .footer-link-wrap{flex-direction: column;} 
+        .socail-media-wrap{flex-direction: column;}          
+}
