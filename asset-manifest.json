@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/proj3tripplanner/static/css/main.6113ed9b.css",
+    "main.js": "/proj3tripplanner/static/js/main.3fec48f1.js",
+    "static/media/nat10.jpg": "/proj3tripplanner/static/media/nat10.a187b17c5f8c911e422d.jpg",
+    "static/media/natv3.mp4": "/proj3tripplanner/static/media/natv3.847dd54f2393fc4989f8.mp4",
+    "static/media/natv1.mp4": "/proj3tripplanner/static/media/natv1.59e75226d30ad48f9ede.mp4",
+    "static/media/nat2.jpg": "/proj3tripplanner/static/media/nat2.bb238fc1bea8ae2474d2.jpg",
+    "static/media/nat12.jpg": "/proj3tripplanner/static/media/nat12.01bb5484ae70330ce91c.jpg",
+    "static/media/nat1.jpg": "/proj3tripplanner/static/media/nat1.53f4843759ebec256cb9.jpg",
+    "static/media/nat11.jpg": "/proj3tripplanner/static/media/nat11.5f55f3dbe5c7672c0656.jpg",
+    "static/media/nat15.jpg": "/proj3tripplanner/static/media/nat15.a19ef418c9ddd1e02298.jpg",
+    "static/media/nat14.jpg": "/proj3tripplanner/static/media/nat14.23ee6c4537edfa6366e7.jpg",
+    "index.html": "/proj3tripplanner/index.html",
+    "main.6113ed9b.css.map": "/proj3tripplanner/static/css/main.6113ed9b.css.map",
+    "main.3fec48f1.js.map": "/proj3tripplanner/static/js/main.3fec48f1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6113ed9b.css",
+    "static/js/main.3fec48f1.js"
+  ]
+}
